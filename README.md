@@ -13,6 +13,7 @@
 - 👀 I’m interested in coding, video games and computer science
 - 🌱 I’m currently learning : c++ | c# | Python
 - I will regularly post scripts made by me. I will mainly post JavaScript (discord.js) and Lua (FiveM)
+- I will also post scripts that are not made by me, while mentioning the author of the script so as not to steal his project
 - 📚 I learnt : HTML | CSS | JS | Lua
 
 
