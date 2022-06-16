@@ -1,6 +1,6 @@
 - 👋 Salut, discord : Swayxs#9999
 - 👀 Je m'intéresse au codage, aux jeux vidéo et à l'informatique
-- 🌱 Actuellement j'apprends : c++ | c# | Python
+- 🌱 Actuellement j'apprends : Python
 - 📚 J'ai appris : HTML | CSS | JS | Lua
 
 --------------------------------------------------------------------------------------------------------------------------------
